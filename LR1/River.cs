@@ -11,6 +11,11 @@ namespace LR1
         public string name { get; set; }
         public double square { get; set; }
         public double length { get; set; }
+        public River()
 
+        {
+
+
+        }
     }
 }

@@ -10,7 +10,8 @@ namespace LR1
     {
         static void Main(string[] args)
         {
-
+            River river = new River();
+            Console.ReadLine();
         }
     }
 }
